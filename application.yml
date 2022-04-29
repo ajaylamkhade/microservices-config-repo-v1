@@ -1,3 +1,7 @@
+ test:
+    message:
+      value: "Hello Git hub configuration!"
+
 eureka:
   client:
     register-with-eureka: true
