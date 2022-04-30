@@ -1,6 +1,6 @@
- test:
-    message:
-      value: "Hello Git hub configuration!"
+ my:
+  name:
+    print: Adi 
 
 eureka:
   client:
